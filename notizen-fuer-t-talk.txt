@@ -1,9 +1,17 @@
 GitKraken
 
  - von Axosoft
- - 
+ - braucht _kein_ installiertes Git
+ - download, install, run
  
- 
+Features
+
+ - doppelklick zum auschecken
+ - supersimples branch-management
+ - drag & drop
+ - one-click undo&redo
+ - eingebautes merge-tool
+ - Volltextsuche auf commits
  
 Lizenz und organisatorisches
 
