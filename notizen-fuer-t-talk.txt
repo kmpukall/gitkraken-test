@@ -1,0 +1,13 @@
+GitKraken
+
+ - von Axosoft
+ - 
+ 
+ 
+ 
+Lizenz und organisatorisches
+
+ - Community Edition ist kostenlos, man darf aber nur 1 Profil haben
+ - Pro Edition kostet $6 / Monat
+ - man muss sich bei GitKraken noch mal extra anmelden :-(
+ 
