@@ -26,5 +26,5 @@ Lizenz und organisatorisches
  - man muss sich bei GitKraken noch mal extra anmelden :-(
  - GitKraken Pro hat zusätzlich noch folgende Features:
    - mehrere Profile
-   - einen brauchbaren Merge-Editor
+   - einen brauchbaren Merge-Editor. Bei der kostenlosen kann man nur zeilenweise mergen - es ist aber möglich externe merge-tools zu konfigurieren
  
