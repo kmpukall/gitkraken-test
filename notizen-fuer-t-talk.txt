@@ -17,6 +17,7 @@ Features
  - Volltextsuche auf commits
  - Github / Bitbucket Integration (Pull-Requests etc.)
  - dark color scheme!
+ - fullscreen mode!
  
 Lizenz und organisatorisches
 
