@@ -3,6 +3,9 @@ GitKraken
  - von Axosoft
  - braucht _kein_ installiertes Git
  - download, install, run
+ - läuft nativ auf Windows 7+, Mac, Linux
+ - sehr aktiv, neue Releases etwa alle 2-4 Wochen
+ - NICHT open source!
  
 Features
 
@@ -10,12 +13,17 @@ Features
  - supersimples branch-management
  - drag & drop
  - one-click undo&redo
- - eingebautes merge-tool
+ - eingebautes merge-tool (etwas beschränkt)
  - Volltextsuche auf commits
+ - Github / Bitbucket Integration (Pull-Requests etc.)
+ - dark color scheme!
  
 Lizenz und organisatorisches
 
- - Community Edition ist kostenlos, man darf aber nur 1 Profil haben
+ - Community Edition ist kostenlos
  - Pro Edition kostet $6 / Monat
  - man muss sich bei GitKraken noch mal extra anmelden :-(
+ - GitKraken Pro hat zusätzlich noch folgende Features:
+   - mehrere Profile
+   - einen brauchbaren Merge-Editor
  
