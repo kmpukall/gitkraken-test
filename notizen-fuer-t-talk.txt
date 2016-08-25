@@ -7,13 +7,21 @@ GitKraken
  - sehr aktiv, neue Releases etwa alle 2-4 Wochen
  - NICHT open source!
  
+ 
+Axosoft
+
+- stellt eigentlich Team Collaboration Software her. Die Software versucht ein besseres Jira zu sein, mit Ticketing-System, grafischen Auswertungen, Releaseplanner, et cetera.
+- wird von einer Reihe bekannter Unternehmen genutzt, z.B. Nike, Siemens, Verizon, Disney, Intel, ...
+- recht kleines Unternehmen (ca. 50 Mitarbeiter)
+- sehr female-friendly: frauengeführt, setzen sich auffällig für mehr Frauen in der IT ein
+ 
 Features
 
  - doppelklick zum auschecken
  - supersimples branch-management
  - drag & drop
- - one-click undo&redo
- - eingebautes merge-tool (etwas beschränkt)
+ - one-click undo, redo, discard local changes
+ - eingebautes merge-tool
  - Volltextsuche auf commits
  - Github / Bitbucket Integration (Pull-Requests etc.)
  - dark color scheme!
